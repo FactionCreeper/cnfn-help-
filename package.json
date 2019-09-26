@@ -1,0 +1,18 @@
+{
+  "name": "CNFN",
+  "description": "CNFN",
+  "version": "0.0.0",
+  "main": "CNFN.js",
+  "scripts": {
+    "start": "node CNFN.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "request": "2.81.0",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^0.29.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
