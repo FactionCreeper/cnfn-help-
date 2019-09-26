@@ -4,7 +4,7 @@ const YouTube = require('simple-youtube-api');
 const ytdl = require('ytdl-core');
 const Discord = require("discord.js");
 const bot = new Discord.Client();
-bot.login("NjI2MTQzMzUyNzY4ODIzMzA2.XYp1Pg.Efr2XZ8g0jgmTjtSDM93R3f5WHU");
+bot.login("TOKEN");
 
 bot.on("ready", function() {
 console.log(`${bot.user.username} is Online!`);
